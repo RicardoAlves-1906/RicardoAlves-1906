@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-  <a href="https://github.com/wagnerlimanet">
+  <a href="https://github.com/ricardoalves1906">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Ricardo+Alves;Sou+investidor,+Desenvolvedor!&center=true&width=780&height=45">
   </a>
 </h3>
@@ -67,7 +67,7 @@
 
 <hr />
 
-<p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Wagner Lima :: Contador de Visitas" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ricardoalves1906}/count.svg" alt="Ricardo Alves :: Contador de Visitas" /></p>
 
 <p align="center">
   <a href="https://github.com/ricardoalves1906">
