@@ -56,10 +56,10 @@
   <summary>💻 Métricas do Perfil/Projetos</summary>
   <br/>
     <a href="https://github.com/ricardoalves1906/github-readme-stats">
-	    <img alt="" src="https://github-readme-stats.vercel.app/api?username=wagnerlimanet&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="45%" height="192px"/>
+	    <img alt="" src="https://github-readme-stats.vercel.app/api?username=ricardoalves1906&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="45%" height="192px"/>
     </a>
   <a href="https://github.com/ricardoalves1906/github-readme-stats">
-	  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlimanet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/>
+	  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoalves1906&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/>
   </a>
   <br/>
   <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens usadas nos projetos que foram publicados, não implicando diretamente na minha experiência e/ou nível de habilidade.
