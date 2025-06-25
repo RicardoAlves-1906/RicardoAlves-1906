@@ -78,7 +78,7 @@
   </a>
   <a href="https://github.com/ricardoalves1906?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ricardoalves1906?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/wagnerlimanet/Simple-View-Counter">
+  <a href="https://github.com/ricardoalves1906/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=wagnerlimanet&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
